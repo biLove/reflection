@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    本地保存版本不利于共享，且不小心的话还有可能丢文件。将版本库远程管理有利于协同合作。
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
